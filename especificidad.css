@@ -2,10 +2,17 @@
     color: green;
 }
 
-#titulo{
+#titulo {
     color: red;
 }
 
 h2 {
     color: blue !important;
+}
+
+#h2-content {
+    color: blue !important;
+    display: inline;
+    background-color: red !important;
+    padding: 20px 40px 5px !important;
 }
