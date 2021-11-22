@@ -1,0 +1,34 @@
+/*Selector universal*/
+* {
+    color: red;
+}
+/*Selector de tipo */
+h1 {
+    color: blue;
+}
+/*Selector de clase */
+.titulo-secundario {
+    color: green;
+}
+/*Selector de id */
+#parrafo {
+    color: gray;
+}
+/*Selector por atributo */
+[test="si"] {
+    color: purple;
+}
+/*Selector descentendte */
+h2 p {
+    color: yellow;
+}
+h2 p span{
+    color: black;
+}
+/*Selector pseudo clases */
+h2 p:hover {
+    color: blue;
+}
+h2 p span{
+    color: black;
+}
