@@ -8,3 +8,7 @@ function suma(){
 function resta(){
     return "4";
 }
+
+function multiplicacion(){
+    return "4";
+}
